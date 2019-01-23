@@ -18,15 +18,16 @@
 ## Link to all relevant resources:
 
 MobX
-https://mobx.js.org/
-https://github.com/mobxjs/mobx
+- https://mobx.js.org/
+- https://github.com/mobxjs/mobx
 
-Demo used for this lightning learn from this repository application [https://github.com/mobxjs/mobx-react-todomvc] written using MobX, React JSX and ES6.
+Demo used for this lightning learn from this repository application:
+- [https://github.com/mobxjs/mobx-react-todomvc] written using MobX, React JSX and ES6.
 
 Great YouTube Web Tutorials:
 
 MobX tutorial #1 - MobX + React is AWESOME
-https://www.youtube.com/watch?v=_q50BXqkAfI
+- https://www.youtube.com/watch?v=_q50BXqkAfI
 
 MobX tutorial #2 - Computed Values and Nested/Referenced Observables
-https://www.youtube.com/watch?v=nYvNqKrl69s
+- https://www.youtube.com/watch?v=nYvNqKrl69s
